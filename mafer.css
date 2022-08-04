@@ -1,5 +1,11 @@
+html {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 body {
-  width: 98vw;
+  width: 80vw;
   height: auto;
   justify-self: center;
   margin: 15px;
